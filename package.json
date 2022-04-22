@@ -1,5 +1,5 @@
 {
-  "name": "dcm-email-confirmation",
+  "name": "microserviz__email_confirmation",
   "scripts": {
     "serve": "node index.mjs",
     "dev": "nodemon index.mjs"
