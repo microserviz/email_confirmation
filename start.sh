@@ -11,7 +11,7 @@ export EMAIL_PASSWORD=password
 export EMAIL_FROM=noreply@your.domain
 export BASE_URL=https://your.domain
 export LETTER_CONFIRM_RELATIVE_URL=/auth/registration/confirmEmail
-export CORS_ORIGIN=your.domain
+export CORS_ORIGIN=https://your.domain
 export LOG=True
 
 npm run serve
