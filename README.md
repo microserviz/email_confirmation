@@ -60,13 +60,13 @@ Set these env vars when running the script:
 See `./src/confirmationLetters.mjs` and edit whatever you need.
 
 
-## PROTECTION
+## Protection
 
 ### CORS
 
 You may want to set `CORS_ORIGIN` environment variable in order to restrict access to this microservice.
 
 
-## LOGGING
+## Logging
 
 Set `LOG` environment variable in case you want some logging.
