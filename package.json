@@ -1,0 +1,16 @@
+{
+  "name": "dcm-email-confirmation",
+  "scripts": {
+    "serve": "node index.mjs",
+    "dev": "nodemon index.mjs"
+  },
+  "dependencies": {
+    "@koa/cors": "^3.3.0",
+    "koa": "^2.13.4",
+    "koa-router": "^10.1.1",
+    "nodemailer": "^6.7.3",
+    "sequelize": "^6.18.0",
+    "sqlite3": "^5.0.2",
+    "uuid": "^8.3.2"
+  }
+}
